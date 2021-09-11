@@ -1,0 +1,17 @@
+    #headah
+    {
+        width: 100%;
+    text-align: left;
+    }
+    
+    #headah h1 {
+        display: inline;
+    }
+    
+    #BuTtOn
+    {
+        float: right;
+        border-style: solid;
+        border-color: aliceblue;
+        border-width: 2;
+    }
